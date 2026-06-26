@@ -15,9 +15,9 @@
 ### <b>Progression and Sorcery</b>
 - <b>Mystical Progression</b>: Dive deep into various magical arts, ranging from nature-based wizardry and alchemy to blood magic and constellation attunement.
 
-- <b>Balanced Recipes</b>: Over 400 recipes have been carefully altered to ensure all magic systems interact fluidly, offering a single, logical progression flow without exhausting grinds.
+- <b>Balanced Recipes</b>: Over 100 recipes have been carefully altered to ensure all magic systems interact fluidly, offering a single, logical progression flow without exhausting grinds.
 
-- <b>Guided Quests</b>: More than 400 customized quests will act as your wizard's guide, explaining unique mechanics, ritual setups, and magical abilities step by step.
+- <b>Guided Quests</b>: More than 150 customized quests will act as your wizard's guide, explaining unique mechanics, ritual setups, and magical abilities step by step.
 
 ### <b>Atmosphere & Visuals</b>
 - <b>Stunning Lighting & Aesthetics</b>: True to its name, the pack features enhanced lighting effects, custom particles, and a beautifully redesigned custom main menu that sets a cozy yet mysterious mood.
