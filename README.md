@@ -9,7 +9,7 @@
 </p>
 
 # MagicalLights
-<b>MagicalLights</b> is an enchanting, magic-focused adventure modpack for Minecraft 1.16.5 Forge, developed by BMProjects. Step into a world illuminated by mystical energies, where ancient spells and hidden wonders await at every turn. In this pack, you will follow a beautifully crafted path of arcane progression, mastering various schools of wizardry, creating your own unique spells, and exploring vibrant, magical biomes. <b>MagicalLights</b> features a balanced and rewarding experience seamlessly brought together through 400+ custom quests, modified recipes, and fine-tuned scripts. Let the magic guide your way! <br/>
+<b>MagicalLights</b> is an enchanting, magic-focused adventure modpack for Minecraft 1.16.5 Forge, developed by BMProjects. Step into a world illuminated by mystical energies, where ancient spells and hidden wonders await at every turn. In this pack, you will follow a beautifully crafted path of arcane progression, mastering various schools of wizardry, creating your own unique spells, and exploring vibrant, magical biomes. <b>MagicalLights</b> features a balanced and rewarding experience seamlessly brought together through 150+ custom quests, modified recipes, and fine-tuned scripts. Let the magic guide your way! <br/>
 
 # Features
 ### <b>Progression and Sorcery</b>
@@ -27,7 +27,7 @@
 - <b>Immersive Sounds</b>: Integrated audio tweaks and ambient soundscapes breathe life into the environment, making your magical journey feel truly alive.
 
 ### <b>Gameplay & Mechanics</b>
-- <b>Custom Spellcraft</b>: Don't just cast spells—create them! Design your own magical projectiles, buffs, and utility spells tailored perfectly to your playstyle.
+- <b>Custom Spellcraft</b>: Don't just cast spells-create them! Design your own magical projectiles, buffs, and utility spells tailored perfectly to your playstyle.
 
 - <b>Arcane Automation</b>: Use the power of magic, mystical creatures, and unique flowers to automate your resource gathering, sorting, and crafting pipelines.
 
