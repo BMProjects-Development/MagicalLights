@@ -8,30 +8,30 @@
   <a href="https://discord.gg/9GWKBVw3Ty"><img src="https://img.shields.io/discord/1087416155934834748?style=for-the-badge&label=Discord&logo=discord&logoColor=d9e0ee&labelColor=9932CC&color=4B0082" alt="Discord"></a>
 </p>
 
-# Vanilla Classic Remake
-<b>Vanilla Classic Remake</b> is an immersive, adventure-driven Vanilla+ modpack for Minecraft 1.19.2 Forge, carefully designed to enhance the core essence of the original game without overwhelming you with complex machinery or heavy magic. In this world, you won't find tedious factories-instead, you will embark on a pure journey of exploration, mastering unique movement mechanics, encountering lost creatures, and founding your very own thriving kingdom. <b>Vanilla Classic Remake</b> features hundreds of well-balanced quests, modified recipes, custom scripts, and an incredibly cohesive progression tree that bridges all elements together. Are you ready to witness Minecraft exactly as it always should have been? <br/>
+# MagicalLights
+<b>MagicalLights</b> is an enchanting, magic-focused adventure modpack for Minecraft 1.16.5 Forge, developed by BMProjects. Step into a world illuminated by mystical energies, where ancient spells and hidden wonders await at every turn. In this pack, you will follow a beautifully crafted path of arcane progression, mastering various schools of wizardry, creating your own unique spells, and exploring vibrant, magical biomes. <b>MagicalLights</b> features a balanced and rewarding experience seamlessly brought together through 400+ custom quests, modified recipes, and fine-tuned scripts. Let the magic guide your way! <br/>
 
 # Features
-### <b>Progression and Kingdom Building</b>
-- <b>Establish Your Colony</b>: Deeply integrated with <i>MineColonies</i>, this pack challenges you to build, manage, and protect a massive settlement filled with intelligent citizens who gather resources and defend against dangerous raids!
+### <b>Progression and Sorcery</b>
+- <b>Mystical Progression</b>: Dive deep into various magical arts, ranging from nature-based wizardry and alchemy to blood magic and constellation attunement.
 
-- <b>Adventure-Driven Quests</b>: Hundreds of custom quests divided into multiple intuitive chapters guide you through your journey, showing you what to explore, how to build, and explaining all the unique additions.
+- <b>Balanced Recipes</b>: Over 400 recipes have been carefully altered to ensure all magic systems interact fluidly, offering a single, logical progression flow without exhausting grinds.
 
-- <b>Interconnected Recipes</b>: Crafting mechanics and recipes have been thoughtfully modified to weave every feature together into a unified and satisfying progression loop.
+- <b>Guided Quests</b>: More than 400 customized quests will act as your wizard's guide, explaining unique mechanics, ritual setups, and magical abilities step by step.
 
-### <b>Custom Content & Atmosphere</b>
-- <b>Breath of the Wild Inspiration</b>: Explore the world like never before with added paragliders and special movement tools inspired by <i>The Legend of Zelda: Breath of the Wild</i>!
+### <b>Atmosphere & Visuals</b>
+- <b>Stunning Lighting & Aesthetics</b>: True to its name, the pack features enhanced lighting effects, custom particles, and a beautifully redesigned custom main menu that sets a cozy yet mysterious mood.
 
-- <b>Lost Vote Creatures</b>: Meet unique mobs that originally lost in the official Minecraft developer mob votes-now fully alive, polished, and roaming across the land.
+- <b>Vibrant Worlds</b>: Explore overhauled biomes and magical dimensions filled with mystical flora, hidden ruins, and unique resources waiting to be harvested.
 
-- <b>Immersive Aesthetics</b>: Features custom visual particles, immersive crafting right on the workbench interface, and a completely unique, stylized main menu.
+- <b>Immersive Sounds</b>: Integrated audio tweaks and ambient soundscapes breathe life into the environment, making your magical journey feel truly alive.
 
-### <b>Exploration & Mechanics</b>
-- <b>Enhanced Combat & Action</b>: Experience an updated, fluid combat system designed to make every sword swing and encounter with tougher monsters feel deeply engaging and dynamic.
+### <b>Gameplay & Mechanics</b>
+- <b>Custom Spellcraft</b>: Don't just cast spells—create them! Design your own magical projectiles, buffs, and utility spells tailored perfectly to your playstyle.
 
-- <b>Stunning World & Dungeon Generation</b>: Explore majestic, overhauled caves, towering mountain peaks, completely re-imagined existing dungeons, and challenging new structures guarded by formidable loot.
+- <b>Arcane Automation</b>: Use the power of magic, mystical creatures, and unique flowers to automate your resource gathering, sorting, and crafting pipelines.
 
-- <b>Optimized Vanilla Experience</b>: Configured to maintain a warm, classic Minecraft atmosphere while offering excellent optimization and smooth performance for any type of PC.
+- <b>Optimization</b>: Meticulously optimized with essential performance mods to ensure smooth gameplay, gorgeous visual effects, and high FPS even during complex magical rituals.
 
 # Download
 [CurseForge](https://www.curseforge.com/minecraft/modpacks/magicallights) <br/>
